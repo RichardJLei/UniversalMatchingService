@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@textea/json-viewer": "^4.0.1",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "ag-grid-community": "^33.0.3",
+    "ag-grid-react": "^33.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.1.1"
+  }
+}
